@@ -1,5 +1,5 @@
 SCHEMA_NAME,TABLE_NAME,column_name(data_type)
-,EMPLOYEE, id(INT)
+,, 
 ,EMPLOYEE, name(VARCHAR(20))
 ,EMPLOYEE, mobile(INT)
 ,EMPLOYEE, dob(DATE)
