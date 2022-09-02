@@ -1,3 +1,9 @@
 TABLE_NAME,column_name(data_type)
-mno, pqr
-vwx, yza
+EMPLOYEE, id(INT)
+EMPLOYEE, name(VARCHAR(20))
+EMPLOYEE, mobile(INT)
+EMPLOYEE, dob(DATE)
+STUDENT, id(INT)
+STUDENT, name(VARCHAR(20))
+STUDENT, mobile(INT)
+STUDENT, dob(DATE)
